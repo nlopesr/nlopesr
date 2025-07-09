@@ -36,7 +36,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/500404345091653632)
 
 <!-- GithubStats -->
-![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderlupus&show_icons=true&theme=merko&rank_icon=github)
+<!-- ![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderlupus&show_icons=true&theme=merko&rank_icon=github) -->
 
 <!-- Portfolio -->
 ## Portfolio:
@@ -45,7 +45,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem" width="300">>
 </p>
 
 ## 🔥 Skills
