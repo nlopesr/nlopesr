@@ -41,6 +41,9 @@
 <!-- Portfolio -->
 ## Portfolio:
 - [PyCustomer](https://replit.com/@nathanlopes089/BSI-PyCustomer-Projeto)
+- [SIG-Beer](https://github.com/SamuelMorais45/SIG-Beer)
+- [SIG-Finance](https://github.com/oguiaraujo/SIG-Finance)
+- [Rick And Morty POO](https://github.com/coderlupus/POO-project)
 
 
 <!-- GIF -->
