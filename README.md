@@ -40,7 +40,19 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Google drive with everything](https://drive.google.com/drive/folders/1fdQUXoiF9KzQZK_JrjjsQrUzG8yxAKlV?usp=sharing)
+Most of my projects are available here on GitHub.  
+Some are private due to freelance work.
+
+### 🌐 External Projects
+- https://www.staysalmar.com/
+
+### 🏢 Organization Repositories
+Projects I contributed to through organizations:
+
+- https://github.com/orgs/fundaoimd/repositories
+- https://github.com/labican-ufrn
+- https://github.com/SIGAEX
+- https://github.com/Sigetec
 
 <!-- GIF -->
 <!--<p align="center">  -->
