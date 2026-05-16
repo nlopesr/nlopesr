@@ -13,8 +13,8 @@
 </div>
 
 <!-- Presentation -->
-<p>
-  Hi 👋, I'm Nathan! A student from Brazil.
+<!--<p>
+  Hi 👋, I'm Nathan! A Software Engineer form Brazil.
 
   - 🌱 I’m currently studying "information systems" at UFRN, Brazil.
 
@@ -22,7 +22,7 @@
 </p>
 
 <!-- Dropdown -->
-<details>
+<!--<details>
   <summary>👨‍💻 More about me:</summary>
 
   - 💬 I was born in 2006, currently living in Brazil. I have a great level of english, I started this journey the moment i decided to study at UFRN, I'm loving this journey, the new friends I'm making, amazing teachers and also, great opportunities.
@@ -31,7 +31,7 @@
 </details>
 
 <!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nathanlpsr/)
+<!--[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nathanlpsr/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nlopesr/)
 <!-- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/500404345091653632) -->
 
