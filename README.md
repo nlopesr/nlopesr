@@ -49,7 +49,7 @@ Some are private due to freelance work.
 ### 🏢 Organization Repositories
 Projects I contributed to through organizations:
 
-- https://github.com/orgs/fundaoimd/repositories
+- https://github.com/fundaoimd
 - https://github.com/labican-ufrn
 - https://github.com/SIGAEX
 - https://github.com/Sigetec
