@@ -54,6 +54,9 @@ Projects I contributed to through organizations:
 - https://github.com/SIGAEX
 - https://github.com/Sigetec
 
+### Certificates
+[![Google Drive](https://drive.google.com/drive/u/2/folders/1fdQUXoiF9KzQZK_JrjjsQrUzG8yxAKlV)
+
 <!-- GIF -->
 <!--<p align="center">  -->
 <!--  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem" width="600">  -->
