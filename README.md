@@ -55,7 +55,7 @@ Projects I contributed to through organizations:
 - https://github.com/Sigetec
 
 ### Certificates
-[![Google Drive](https://drive.google.com/drive/u/2/folders/1fdQUXoiF9KzQZK_JrjjsQrUzG8yxAKlV)
+- [Google Drive](https://drive.google.com/drive/u/2/folders/1fdQUXoiF9KzQZK_JrjjsQrUzG8yxAKlV)
 
 <!-- GIF -->
 <!--<p align="center">  -->
