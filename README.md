@@ -45,6 +45,8 @@ Some are private due to freelance work.
 
 ### 🌐 External Projects
 - https://www.staysalmar.com/
+- [PetSUS](https://github.com/Kingnaldo1337/PETSUS)
+- [Bot Arcanjo](https://github.com/Tome-arcanjo/bot_arcanjo)
 
 ### 🏢 Organization Repositories
 Projects I contributed to through organizations:
